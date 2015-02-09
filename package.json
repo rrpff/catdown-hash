@@ -1,0 +1,17 @@
+{
+  "name": "catdown-hash",
+  "version": "1.0.0",
+  "description": "Stores Catdown editor content in the URL hash for basic persistance.",
+  "main": "index.js",
+  "scripts": {
+    "test": "null"
+  },
+  "keywords": [
+    "catdown",
+    "hash",
+    "editor",
+    "persistance"
+  ],
+  "author": "zuren",
+  "license": "MIT"
+}
