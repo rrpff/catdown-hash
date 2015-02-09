@@ -12,6 +12,14 @@
     "editor",
     "persistance"
   ],
-  "author": "zuren",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zuren/catdown-hash.git"
+  },
+  "author": "Richard Foster <richard@rpf.me> (http://rpf.me/)",
+  "bugs": {
+    "url": "https://github.com/zuren/catdown-hash/issues"
+  },
+  "homepage": "https://github.com/zuren/catdown-hash"
 }
